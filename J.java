@@ -35,4 +35,8 @@ public class J implements F, G {
     public void bb() {
         System.out.println(42);
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }

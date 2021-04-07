@@ -27,4 +27,8 @@ public class K implements F {
     public float ff() {
         return 3.14;
     }
+
+    public String kk() {
+        return "Hello world";
+    }
 }
