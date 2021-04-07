@@ -27,4 +27,8 @@ public class J implements F, G {
     public int ae() {
         return java.lang.Math.abs(-6);
     }
+
+    public long dd() {
+        return 33;
+    }
 }
