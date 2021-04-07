@@ -35,4 +35,8 @@ public class K implements F {
     public int ae() {
         return 9;
     }
+
+    public int af() {
+        return -1;
+    }
 }

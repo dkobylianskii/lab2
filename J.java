@@ -43,4 +43,8 @@ public class J implements F, G {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
