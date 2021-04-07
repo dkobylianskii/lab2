@@ -47,4 +47,8 @@ public class J extends null implements F, G {
     public void ab() {
         return;
     }
+
+    public byte oo() {
+        return 4;
+    }
 }

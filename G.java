@@ -7,4 +7,8 @@ public class G extends null {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }
