@@ -19,4 +19,8 @@ public class K implements F {
     public Object rr() {
         return null;
     }
+
+    public long ac() {
+        return 111;
+    }
 }
