@@ -31,4 +31,8 @@ public class J implements F, G {
     public long dd() {
         return 33;
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }
