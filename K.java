@@ -23,4 +23,8 @@ public class K implements F {
     public long ac() {
         return 111;
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
