@@ -31,4 +31,8 @@ public class K implements F {
     public String kk() {
         return "Hello world";
     }
+
+    public int ae() {
+        return 9;
+    }
 }

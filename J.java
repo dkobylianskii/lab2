@@ -39,4 +39,8 @@ public class J implements F, G {
     public String kk() {
         return "Yes";
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
