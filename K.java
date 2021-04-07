@@ -1,4 +1,4 @@
-public class K implements F {
+public class K extends null implements F {
 
     private byte g = 1;
 
@@ -22,5 +22,21 @@ public class K implements F {
 
     public long ac() {
         return 111;
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public int ae() {
+        return 9;
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
     }
 }
