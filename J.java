@@ -1,4 +1,4 @@
-public class J implements F, G {
+public class J extends null implements F, G {
 
     private String e = "test";
 
@@ -30,6 +30,26 @@ public class J implements F, G {
 
     public long dd() {
         return 33;
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public String kk() {
+        return "Yes";
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public byte oo() {
+        return 4;
     }
 
     public void bb() {
